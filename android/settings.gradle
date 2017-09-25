@@ -1,0 +1,3 @@
+rootProject.name = 'mobilecapybara'
+
+include ':app'
